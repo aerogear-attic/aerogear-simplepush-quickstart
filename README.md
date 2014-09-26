@@ -1,6 +1,8 @@
 aerogear-simplepush-quickstart
 ==============================
 
+## THIS CODE IS NOW BEING MAINTAINED [HERE](https://github.com/aerogear/aerogear-js-cookbook) .  THIS REPO IS WILL NO LONGER BE MAINTAINED
+
 An introduction to SimplePush and what AeroGear offers around SimplePush!
 
 What is SimplePush?
